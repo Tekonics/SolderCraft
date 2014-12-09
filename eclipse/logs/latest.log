@@ -1,11 +1,13 @@
-[17:45:14] [main/INFO]: Setting user: Player406
-[17:45:17] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:45:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SolderCraft
-[17:45:25] [Sound Library Loader/INFO]: Sound engine started
-[17:45:27] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:45:27] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:45:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SolderCraft
-[17:45:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:45:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:45:29] [Sound Library Loader/INFO]: Sound engine started
-[17:45:40] [Client thread/INFO]: Stopping!
+[23:16:08] [main/INFO]: Logging in with username & password
+[23:16:18] [main/INFO]: Setting user: untamemadman
+[23:16:20] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:16:22] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[23:16:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SolderCraft
+[23:16:32] [Sound Library Loader/INFO]: Sound engine started
+[23:16:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:16:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:16:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SolderCraft
+[23:16:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:16:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:16:37] [Sound Library Loader/INFO]: Sound engine started
+[23:17:21] [Client thread/INFO]: Stopping!
